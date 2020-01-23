@@ -33,6 +33,7 @@
             </div>
         </form>
     </div>
+
     <!-- 現在のタスク -->
     @if (count($tasks) > 0)
         <div class="panel panel-default">
